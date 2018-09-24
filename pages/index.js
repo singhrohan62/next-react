@@ -8,7 +8,7 @@ const Index = () => (
 	<Link href='/contact'>
 	<button>Contact</button>
 	</Link>
-	<p>Hello Next.js</p>
+	<p>Hello Next.js, my first app on Next.js</p>
 	</div>
 )
 
