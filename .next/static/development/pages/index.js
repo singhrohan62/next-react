@@ -10142,7 +10142,7 @@ var Index = function Index() {
       lineNumber: 11
     },
     __self: this
-  }, "Hello Next.js"));
+  }, "Hello Next.js, my first app on Next.js"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
